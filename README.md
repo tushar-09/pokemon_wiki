@@ -1,1 +1,1 @@
-# pokemon_wiki
+# pokemon-wiki
